@@ -19,7 +19,7 @@
   "author": "Gatej Andrei <andreigtj01@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "bcrypt": "^5.0.1",
+    "bcrypt": "^6.0.0",
     "cors": "^2.8.5",
     "debug": "^4.1.1",
     "dotenv": "^6.2.0",
